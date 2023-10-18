@@ -1,0 +1,7 @@
+path: C:\Users\peppe\Desktop\provaDataset #dataset root dir
+train: ../archivio/train/images #train images (relative to path)
+val: ../archivio/validation/images  #val images (relative to path)
+
+#Classes
+nc: 26
+names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
