@@ -17,3 +17,6 @@ At the core of the project is the dataset creation, a critically important phase
 
 <h3> Annotation </h3>
 After the images were collected, an annotation phase was required. A tool called <a href="https://www.cvat.ai/">Computer Vision Annotation</a> was used to draw outlines for object detection. This process facilitated the clear identification and delineation of the signs within the images.
+
+<h3> Export phase </h3>
+Finally, the work has been exported in a format compatible with the requirements of our YOLOv8 model. Essentially, our labels are text files containing five values each: the first represents the object class identifier, the second and third represent the x and y coordinates of the object within the image, while the fourth and fifth values represent the width and height of the object in the image.
