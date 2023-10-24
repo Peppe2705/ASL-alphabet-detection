@@ -1,6 +1,6 @@
-path: C:\Users\peppe\Desktop\provaDataset #dataset root dir
-train: ../archivio/train/images #train images (relative to path)
-val: ../archivio/validation/images  #val images (relative to path)
+path: #dataset root dir
+train: #train images (relative to path)
+val: #val images (relative to path)
 
 #Classes
 nc: 26
