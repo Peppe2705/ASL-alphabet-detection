@@ -24,3 +24,6 @@ Finally, the work has been exported in a format compatible with the requirements
 <h2> Model </h2>
 
 For the development of our final model, <a href="https://github.com/ultralytics/ultralytics">YOLOv8 </a> (You Only Look Once version 8) was utilized, renowned for its exceptional object detection accuracy and computational efficiency. YOLOv8 employs a 'single-stage' approach and provides real-time precision across a range of devices, including those with limited resources. It is widely used in computer vision projects due to its versatility. Specifically, the pre-trained YOLOv8n model proved to be instrumental, enabling us to achieve optimal performance right from the outset.
+
+<h2> Use Case</h2>
+
