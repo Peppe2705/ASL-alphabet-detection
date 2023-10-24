@@ -10,3 +10,7 @@ The ASL Alphabet, also known as the American Sign Language alphabet, is nothing 
 2. Universality and Accessibility: The ASL Alphabet is a form of visual and gestural communication that transcends linguistic barriers and enables anyone to communicate with deaf or hard of hearing people.
 
 3. Inclusion and Early Learning: Learning the ASL Alphabet is often encouraged in schools as part of inclusive education programs. This helps children develop an early understanding of sign language and promotes the inclusion of deaf or hard of hearing children in hearing communities.
+
+<h2> Dataset </h2>
+<h3> Dataset Creation </h3>
+At the heart of our project lies the dataset creation, a critically important phase for the successful training of our sign language alphabet recognition model. We meticulously collected a total of 1060 images, which were divided into 925 for the training set and 135 for the validation phase
