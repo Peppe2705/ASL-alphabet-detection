@@ -14,3 +14,6 @@ The ASL Alphabet, also known as the American Sign Language alphabet, is nothing 
 <h2> Dataset </h2>
 <h3> Dataset Creation </h3>
 At the core of the project is the dataset creation, a critically important phase for the effective training of the sign language alphabet recognition model. A total of 1060 images has been meticulously collected, divided into 925 for the training set and 135 for the validation phase.
+
+<h3> Annotation </h3>
+After the images were collected, an annotation phase was required. [A tool called "Computer Vision Annotation"](https://www.cvat.ai/) was used to draw outlines for object detection. This process facilitated the clear identification and delineation of the signs within the images.
