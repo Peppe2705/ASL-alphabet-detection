@@ -1,7 +1,7 @@
 # ASL-alphabet-detection
 This project aims to detect and recognize hand gestures in the American Sign Language (ASL) alphabet. We have created a custom dataset containing images of ASL gestures and trained a YOLOv8 model for object detection.
 
-<h2> **What is ASL-alphabet?** </h2>
+<h2> What is ASL-alphabet? </h2>
 
 The ASL Alphabet, also known as the American Sign Language alphabet, is nothing but a visual alphabet, a system of representing the letters of the alphabet using hand signs. The distinctive features that make this alphabet so important are:
 
