@@ -27,3 +27,5 @@ For the development of our final model, <a href="https://github.com/ultralytics/
 
 <h2> Use Case</h2>
 
+https://github.com/Peppe2705/ASL-alphabet-detection/assets/132920381/43c49bb9-d6d1-4ba9-ba3b-86c08391244f
+
