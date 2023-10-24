@@ -20,3 +20,7 @@ After the images were collected, an annotation phase was required. A tool called
 
 <h3> Export phase </h3>
 Finally, the work has been exported in a format compatible with the requirements of our YOLOv8 model. Essentially, our labels are text files containing five values each: the first represents the object class identifier, the second and third represent the x and y coordinates of the object within the image, while the fourth and fifth values represent the width and height of the object in the image.
+
+<h2> Model </h2>
+
+For the development of our final model, <a href="https://github.com/ultralytics/ultralytics">YOLOv8 </a> (You Only Look Once version 8) was utilized, renowned for its exceptional object detection accuracy and computational efficiency. YOLOv8 employs a 'single-stage' approach and provides real-time precision across a range of devices, including those with limited resources. It is widely used in computer vision projects due to its versatility. Specifically, the pre-trained YOLOv8n model proved to be instrumental, enabling us to achieve optimal performance right from the outset.
