@@ -29,3 +29,6 @@ For the development of our final model, <a href="https://github.com/ultralytics/
 
 https://github.com/Peppe2705/ASL-alphabet-detection/assets/132920381/43c49bb9-d6d1-4ba9-ba3b-86c08391244f
 
+<h2> Contact Information </h2>
+
+In case of further information or questions, please feel free to contact me. You can find my contact details in my profile.
