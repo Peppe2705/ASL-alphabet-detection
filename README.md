@@ -13,4 +13,4 @@ The ASL Alphabet, also known as the American Sign Language alphabet, is nothing 
 
 <h2> Dataset </h2>
 <h3> Dataset Creation </h3>
-At the heart of our project lies the dataset creation, a critically important phase for the successful training of our sign language alphabet recognition model. We meticulously collected a total of 1060 images, which were divided into 925 for the training set and 135 for the validation phase
+At the core of the project is the dataset creation, a critically important phase for the effective training of the sign language alphabet recognition model. A total of 1060 images has been meticulously collected, divided into 925 for the training set and 135 for the validation phase.
